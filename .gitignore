@@ -1,0 +1,2 @@
+# This file tells Git to ignore our secret Firebase config
+firebase-config.js
